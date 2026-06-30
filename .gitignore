@@ -1,0 +1,20 @@
+.vault_key
+**/.vault_key
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Raw patient data should not be submitted.
+medviet-governance/data/raw/*.csv
+
+# Local editor and OS artifacts.
+.DS_Store
+Thumbs.db

@@ -1,0 +1,304 @@
+patient_id,ho_ten,cccd,ngay_sinh,so_dien_thoai,email,dia_chi,benh,ket_qua_xet_nghiem,bac_si_phu_trach,ngay_kham
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,An Vũ,FAKE_CCCD_206003497910,1954,ANON_PHONE_0332617839,johnnguyen@example.org,"338 Bảo Hoàng Hoàng xã JaneThành phố, 895667",Huyết áp cao,3.64,Quý cô Quý cô Vi Đặng,31/01/2026
+562b0f79-c374-49ee-b50b-ea63371ecd7b,Hải Mai,FAKE_CCCD_012839321510,1948,ANON_PHONE_0971983469,lle@example.org,"18 Bác Tùng Trần phố JohnPhường, 338968",Tim mạch,5.16,Vi Trần,18/06/2026
+7412b293-4729-4739-a14f-f3d719db3ad0,Hương Phạm,FAKE_CCCD_399360273594,1964,ANON_PHONE_0598009962,rdang@example.org,"64 Bảo Mai phố JaneThị xã, 380746",Tim mạch,11.39,Hà Vũ,20/06/2026
+a7cad415-366e-416f-908e-bad7b7c93acf,Lâm Mai Hoàng,FAKE_CCCD_855173371908,1971,ANON_PHONE_0596902586,johnbui@example.org,"6 Bác Nam Bùi
+JohnThành phố, 214975",Huyết áp cao,11.45,Yến Bùi,26/04/2026
+988c24c9-61b1-4d22-a280-1c4510435a10,Hoàng Phạm,FAKE_CCCD_521395824459,1951,ANON_PHONE_0877907891,maijane@example.org,"4 Hà Phú Phạm JaneQuận, 665579",Huyết áp cao,6.09,Trọng Nguyễn,05/04/2026
+5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82,Quang Đức Nguyễn,FAKE_CCCD_532201294559,1968,ANON_PHONE_0396640027,john75@example.net,"Quận JaneXã
+89 Hoàng Trí Nguyễn, 847581",Tiểu đường,3.82,Bà Mai Nguyễn,27/03/2026
+1efa2197-7394-488f-847f-d9b4e64d1bcb,Phương Vũ,FAKE_CCCD_992170028134,1938,ANON_PHONE_0762578741,johnbui@example.org,"105 Xuân Trần
+JohnXã, 238739",Khỏe mạnh,4.55,Cô Lan Trần,06/02/2026
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,Bà Hương Phạm,FAKE_CCCD_488311092610,1942,ANON_PHONE_0384649092,john64@example.org,"338 Hà Thế Phạm JaneQuận, 179046",Huyết áp cao,9.56,Cô Yến Trần,12/06/2026
+ed2662e9-17e0-41b7-b810-238303c72ba8,Phúc Phú Đặng,FAKE_CCCD_260725298874,2001,ANON_PHONE_0914009804,lejane@example.org,"74 Ông Tú Dương JaneQuận, 161324",Khỏe mạnh,6.96,Quang Đức Phạm,12/01/2026
+80bacd64-7a0e-4fea-958c-a9ba0cd620c2,Chị Bảo Dương,FAKE_CCCD_224697829529,1960,ANON_PHONE_0852086662,ddang@example.net,"939 Bà Kim Nguyễn
+JaneQuận, 802258",Tim mạch,10.69,Thảo Lê,26/01/2026
+750cab75-4ccc-4bc2-a53f-8a28abf3e3fc,Bà Ánh Nguyễn,FAKE_CCCD_793124355612,1949,ANON_PHONE_0715523392,janetran@example.net,"354 Phương Đặng JohnQuận, 377312",Tim mạch,7.97,Phương Vũ,31/01/2026
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Vũ Phạm,FAKE_CCCD_966925315842,2001,ANON_PHONE_0353320407,janevu@example.com,"427 Ông Thành Đặng phố JohnXã, 137778",Tim mạch,10.31,Bảo Bùi,25/01/2026
+e623a689-5d59-4d2a-8eea-04e70ab54bde,Anh Anh Lê,FAKE_CCCD_064652297638,1964,ANON_PHONE_0903235626,ovu@example.org,"2 Cô Vi Hoàng
+JohnQuận, 872343",Tim mạch,6.72,Quý ông Nhiên Nguyễn,31/01/2026
+61ee411a-1bac-47a7-b386-f7a4c991603f,Thành Hải Lê,FAKE_CCCD_817552429078,1965,ANON_PHONE_0777909672,lejohn@example.org,"036 Phúc Mai Dương
+JanePhường, 634150",Tim mạch,10.29,Hải Hải Phạm,23/01/2026
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Bảo Lê,FAKE_CCCD_735197559476,1994,ANON_PHONE_0321372368,maijane@example.org,"06 Ông Khoa Phạm
+JohnPhường, 446239",Huyết áp cao,5.81,Yến Vũ,02/03/2026
+6703b636-5380-4904-a88c-7015aab97e49,Khoa Mai Mai,FAKE_CCCD_306415988653,1961,ANON_PHONE_0887200096,tranjohn@example.net,"80 Minh Bùi
+JaneThị xã, 563246",Tiểu đường,7.11,Vũ Xuân Dương,04/06/2026
+bc67f831-cbc8-4759-b5b7-8cc7e6b3c944,Tú Thế Bùi,FAKE_CCCD_296150699182,1981,ANON_PHONE_0807380621,janele@example.org,"037 Bà Linh Nguyễn xã JaneThị xã, 355836",Khỏe mạnh,9.78,Chị Nhật Phạm,12/02/2026
+b227462c-f53d-4330-8dda-24ba2d06e8cf,Minh Lê,FAKE_CCCD_634287201568,1952,ANON_PHONE_0713344182,vujane@example.org,"98 Nhật Mai Bùi xã JaneHuyện, 888295",Tim mạch,11.81,Chị Ánh Phạm,05/04/2026
+709b7d97-464c-44af-bd3f-3799a07295e9,Phúc Văn Hoàng,FAKE_CCCD_680371309329,1967,ANON_PHONE_0992722487,johnduong@example.org,"23 Vũ Bùi
+JaneThị xã, 165290",Tiểu đường,6.12,Quý cô Ông Tùng Nguyễn,16/05/2026
+c3fe0183-e172-4725-9b52-ca5805000bc6,Quang Nguyễn,FAKE_CCCD_807609646329,1976,ANON_PHONE_0982212921,johnpham@example.com,"34 Dũng Trần
+JanePhường, 812131",Khỏe mạnh,9.08,Bác Châu Lê,28/06/2026
+88bc539c-9f4c-4b79-bb10-987f20ac3703,Ông Tùng Lê,FAKE_CCCD_661868219491,1939,ANON_PHONE_0334676340,tranjohn@example.net,"53 Quý ông Phúc Dương
+JaneThị xã, 364525",Huyết áp cao,6.55,Vân Bùi,26/05/2026
+f3b1025b-fff9-4585-8d55-7b618a175dfe,Minh Hoàng,FAKE_CCCD_916336027829,1939,ANON_PHONE_0744409109,nguyenjane@example.org,"19 Hạnh Thị Trần
+JohnXã, 736745",Huyết áp cao,11.79,Thành Xuân Dương,21/01/2026
+4fdc6e1b-edcb-4cb6-8692-dc639424aed5,Bà Hồng Đặng,FAKE_CCCD_243304239224,1968,ANON_PHONE_0715509022,ynguyen@example.net,"6 Cô Bảo Hoàng xã JaneThành phố, 554582",Khỏe mạnh,4.87,Ngọc Phạm,04/02/2026
+a6846099-f729-4951-8591-31d2bbda0242,Chị Hương Đặng,FAKE_CCCD_680553574818,2001,ANON_PHONE_0802689081,janevu@example.com,"473 Bà Linh Bùi
+JohnThị xã, 992288",Tiểu đường,4.13,Trọng Đức Lê,10/03/2026
+4797b2c9-5720-4246-8223-623bcc3ebdde,Cô Hương Nguyễn,FAKE_CCCD_218144029099,2005,ANON_PHONE_0710766748,janeduong@example.com,"7 Bác Quang Dương JohnThị xã, 825391",Tiểu đường,4.4,Quang Xuân Dương,13/03/2026
+58007c02-87ea-4ff5-8db0-674679279973,Phương Phạm,FAKE_CCCD_972428166969,1997,ANON_PHONE_0380358341,ale@example.org,"823 Thành Tấn Vũ
+JohnQuận, 410636",Huyết áp cao,11.63,Quang Hữu Vũ,03/01/2026
+4639447b-2067-4dac-88bd-13d1b540b30e,Anh Châu Bùi,FAKE_CCCD_804556305716,1975,ANON_PHONE_0549290528,ymai@example.com,"75 Quý cô Phương Bùi
+JohnThành phố, 520172",Khỏe mạnh,7.84,Cô Yến Vũ,30/01/2026
+f2f9e5fa-9016-4161-8fa7-01cd2631d00b,Thành Bảo Bùi,FAKE_CCCD_661638506771,1951,ANON_PHONE_0894015122,john05@example.net,"74 Anh Trọng Vũ JohnHuyện, 792509",Tiểu đường,10.38,Chị Nhật Nguyễn,03/02/2026
+00af5b3a-2812-459a-9337-739e8d4f5d27,An Bùi,FAKE_CCCD_297988557884,1939,ANON_PHONE_0552940689,duongjane@example.net,"3 Nhật Lê
+JohnXã, 335729",Huyết áp cao,11.08,Châu Thế Vũ,12/01/2026
+9854ce4e-4ebf-45c3-8ae9-b4a72a79ea68,Anh Huy Lê,FAKE_CCCD_660643284513,1999,ANON_PHONE_0766790953,janemai@example.net,"0 Quang Quang Mai phố JohnPhường, 976566",Khỏe mạnh,8.32,Cô Lâm Vũ,22/04/2026
+2cd94cbb-c19a-458c-835b-1c8c0a4c9f7f,An Mai,FAKE_CCCD_230600347861,1994,ANON_PHONE_0823765704,ldang@example.org,"1 Cô Mai Lê
+JanePhường, 519904",Huyết áp cao,9.82,Anh Phú Đặng,03/03/2026
+f85e06a1-1dad-49b2-92c2-1221409d3602,Nhật Mai Bảo Phạm,FAKE_CCCD_961360355189,1998,ANON_PHONE_0910277176,dangjohn@example.net,"7 Bảo Trí Hoàng JanePhường, 608257",Huyết áp cao,8.99,Trọng Hoàng Hoàng,05/06/2026
+4f8d5238-288b-48b5-b5b4-53ca3d42993c,Hồng Vũ,FAKE_CCCD_102097257436,1948,ANON_PHONE_0323987516,janenguyen@example.org,"48 Quý ông Huy Hoàng
+JohnThị xã, 678043",Khỏe mạnh,6.48,Quý cô Quý ông Vũ Bùi,09/04/2026
+dd30de89-22f2-45f2-a11b-868dbf0d073d,Anh Trung Vũ,FAKE_CCCD_313106441632,1981,ANON_PHONE_0801440279,johnmai@example.com,"787 Nhật Dương
+JaneQuận, 831380",Tiểu đường,7.26,Quý cô Huy Hữu Trần,09/01/2026
+b489d070-7914-48a8-bea4-ff31517400f8,Yến Đặng,FAKE_CCCD_178585550586,1940,ANON_PHONE_0894377519,johndang@example.net,"262 Quý cô Phương Nguyễn
+JanePhường, 184216",Huyết áp cao,8.57,Dũng Thế Vũ,02/05/2026
+7cea2045-c268-483e-a32f-2e63b7fddd71,Cô Phương Trần,FAKE_CCCD_986467583609,1967,ANON_PHONE_0391486726,johntran@example.net,"24 Chị Thành Phạm JaneHuyện, 551607",Tim mạch,9.72,Quý ông Phúc Lê,20/04/2026
+2b840c67-2e18-4554-8ae2-8e66ae8a7813,Quý cô Hương Hoàng,FAKE_CCCD_141687841726,1968,ANON_PHONE_0376820300,dangjane@example.com,"40 Hoàng Vũ xã JaneXã, 413685",Tim mạch,5.88,Vũ Phạm,14/06/2026
+627b41a1-ffd6-4232-b2ff-e2944d57d880,Hải Tấn Vũ,FAKE_CCCD_601027431667,1984,ANON_PHONE_0877811771,ldang@example.net,"7 Chị Hải Hoàng JanePhường, 892280",Khỏe mạnh,10.28,Nhật Mai,01/03/2026
+945ef2e4-088a-43ec-b0d9-c9f8c9e26074,Bảo Thế Dương,FAKE_CCCD_786543804425,1979,ANON_PHONE_0724025995,jane22@example.net,"8 Trung Hoàng
+JanePhường, 455168",Khỏe mạnh,8.96,Hà Vũ,28/01/2026
+dc322c97-39c1-4262-b76c-8edec1101266,Hà Mai,FAKE_CCCD_848082440397,1989,ANON_PHONE_0353917926,choang@example.org,"6 Bác Khoa Dương
+JohnXã, 688678",Tiểu đường,3.77,Chị Yến Vũ,04/05/2026
+b379cb1e-e8cd-40cc-b6da-3ca0d2e82f38,Lâm Đặng,FAKE_CCCD_939245316904,1954,ANON_PHONE_0744674922,duongjohn@example.com,"2 Nhật Nguyễn
+JohnThị xã, 786735",Tiểu đường,10.0,Cô An Đặng,21/03/2026
+08601833-479d-4cda-b396-ea37f065c817,Trọng Mai,FAKE_CCCD_985031927686,1967,ANON_PHONE_0958643138,john15@example.com,"31 Anh Dũng Hoàng phố JaneQuận, 232040",Khỏe mạnh,6.74,Anh Tùng Lê,10/02/2026
+dea45c19-d024-4d72-b748-967f961d33ba,Bảo Vũ,FAKE_CCCD_490544776258,1935,ANON_PHONE_0513613149,johndang@example.com,"0 Thành Trí Đặng JohnQuận, 378258",Tim mạch,4.53,Quang Dương,13/04/2026
+79eb4168-1045-46e5-bee3-eb791d181ee9,Trọng Phạm,FAKE_CCCD_258322674999,1950,ANON_PHONE_0514755724,buijane@example.net,"00 Hạnh Dương xã JaneThành phố, 184714",Huyết áp cao,7.43,Huy Đức Lê,25/01/2026
+95da75c1-a211-40f9-9fd3-4579466772ce,Hưng Trần,FAKE_CCCD_634483171349,2004,ANON_PHONE_0762670130,idang@example.com,"73 Thành Hoàng
+JanePhường, 199704",Huyết áp cao,6.45,Khoa Mai Bảo Mai,14/03/2026
+ec48bf55-afd3-40c4-a713-582cf41ea3ac,Hoàng Đức Lê,FAKE_CCCD_527912360183,1948,ANON_PHONE_0823551855,johnduong@example.org,"0 Trung Xuân Dương
+JanePhường, 153945",Tim mạch,11.72,Vi Bùi,10/03/2026
+36760ce5-81e5-49f6-93f2-77cc1a85910d,Quý cô Hương Trần,FAKE_CCCD_094671219987,1983,ANON_PHONE_0988374682,jane11@example.com,"4 Hương Bùi
+JaneHuyện, 106402",Khỏe mạnh,5.84,Quý cô Xuân Mai,14/01/2026
+f8c88fae-a217-4f84-bdb0-25ff2451e5a4,Quý cô Bảo Nguyễn,FAKE_CCCD_253668283370,1964,ANON_PHONE_0375764233,dangjane@example.net,"5 Hưng Thị Vũ phố JohnHuyện, 564637",Khỏe mạnh,4.9,Kim Hải Vũ,23/02/2026
+1d2324e6-8329-40b7-8143-f426372f871a,Cô Linh Mai,FAKE_CCCD_096505939145,2001,ANON_PHONE_0354697898,dle@example.org,"32 Bác Tùng Nguyễn phố JanePhường, 551574",Huyết áp cao,6.15,Khoa Mai,17/05/2026
+d556b37d-8f08-41ee-8011-316b3ae88926,Chị Vi Lê,FAKE_CCCD_349042174658,1994,ANON_PHONE_0304559376,jane43@example.org,"6 Thành Phú Nguyễn JohnXã, 582446",Huyết áp cao,6.34,Bà Hà Dương,17/02/2026
+862268d1-6683-4107-96c0-44d06f887f28,Huy Hải Vũ,FAKE_CCCD_337745011806,1981,ANON_PHONE_0303356362,dle@example.com,"8 Bà Vân Vũ JohnQuận, 368402",Huyết áp cao,8.59,Anh Dũng Nguyễn,28/05/2026
+2d5972c6-134a-4a2f-a7cf-705cc257cf73,Anh Trung Dương,FAKE_CCCD_762986689113,1996,ANON_PHONE_0843544562,jane31@example.org,"90 Trọng Hoàng
+JaneThị xã, 139434",Khỏe mạnh,11.22,Cô Hạnh Vũ,15/01/2026
+daf481a7-fa34-42e8-9d3f-7d7ea508dc95,Quý cô Linh Vũ,FAKE_CCCD_653564707961,2004,ANON_PHONE_0798832629,duongjohn@example.com,"93 Dũng Phú Lê phố JaneThành phố, 950360",Tiểu đường,10.79,Bảo Nguyễn,18/02/2026
+707df251-fdb1-429e-b010-ed13b526b22d,Hải Tấn Nguyễn,FAKE_CCCD_326235752983,1988,ANON_PHONE_0315600471,maijane@example.org,"518 Ngọc Lê JohnXã, 795847",Tim mạch,8.63,Châu Đặng,26/01/2026
+15b02530-f020-4992-b576-255e98549f22,Hưng Trần,FAKE_CCCD_365160492949,1980,ANON_PHONE_0848722656,qnguyen@example.com,"23 Bà Khoa Đặng JohnThành phố, 410160",Tiểu đường,8.39,Cô Hạnh Bùi,12/06/2026
+09a9d1c1-86ca-46f4-a238-fe93bd17c5e8,Khoa Đức Bùi,FAKE_CCCD_159010882399,1986,ANON_PHONE_0330083261,lejohn@example.org,"7 Nhiên Đặng xã JanePhường, 921874",Tim mạch,10.85,Bà Ánh Bùi,02/03/2026
+78116802-c8cc-4cfe-8f01-f944f7315749,An Hoàng Đặng,FAKE_CCCD_130319081346,1995,ANON_PHONE_0738233970,johnbui@example.net,"392 Linh Đặng
+JohnPhường, 986982",Khỏe mạnh,7.66,Anh Hưng Phạm,29/05/2026
+e7c225da-7306-4588-85d5-a68d290a3abb,Quý cô Tú Thế Mai,FAKE_CCCD_914935905244,1996,ANON_PHONE_0570945331,janevu@example.org,"15 Duyên Dương JohnQuận, 140163",Tim mạch,6.63,Quý cô Hồng Vũ,28/05/2026
+9d8776a0-72d7-4bdd-b817-99ffb49e04cc,Tùng Lê,FAKE_CCCD_785082939700,1938,ANON_PHONE_0911633956,johnduong@example.org,"434 Quý cô Bảo Phạm
+JaneThành phố, 216242",Tiểu đường,4.93,Hạnh Dương,16/02/2026
+6de299a1-4a90-4d0c-a4c1-73b9b7f28572,Bà Kim Mai,FAKE_CCCD_183122269201,1968,ANON_PHONE_0886120211,buijohn@example.net,"888 Chi Đặng xã JaneHuyện, 883618",Khỏe mạnh,3.98,Cô Mai Bùi,08/03/2026
+a0d572c8-a837-4e68-bba2-05ca3dba6da8,Khoa Tấn Dương,FAKE_CCCD_261747592476,1953,ANON_PHONE_0949440931,jane11@example.com,"7 Quý cô Vân Hoàng
+JohnHuyện, 311383",Tiểu đường,4.93,Kim Phạm,22/06/2026
+4f612217-eef1-4694-90ca-e32d0aba590e,Anh Vũ Vũ,FAKE_CCCD_375745482917,1940,ANON_PHONE_0876889037,ynguyen@example.net,"15 Bà Dương Dương
+JaneQuận, 620306",Huyết áp cao,5.34,Bà Hà Phạm,05/06/2026
+14348f62-6cac-428c-ba22-006515260718,Chị Ngọc Nguyễn,FAKE_CCCD_081836842512,1975,ANON_PHONE_0383719060,johntran@example.net,"6 Tùng Phú Vũ
+JohnPhường, 469685",Tiểu đường,7.12,Hưng Thị Đặng,11/05/2026
+83599af6-5d01-455f-a7fd-64c4a334058a,Quý ông Nhiên Phạm,FAKE_CCCD_139389869119,1995,ANON_PHONE_0865619687,jane46@example.net,"69 Quang Vũ
+JaneThị xã, 900152",Tim mạch,9.29,Bà Vân Đặng,13/04/2026
+a6499cdc-507b-4072-a5e5-8f345df06e8c,Cô Hà Bùi,FAKE_CCCD_139038805209,1939,ANON_PHONE_0853016574,jane29@example.net,"47 Tùng Đức Vũ phố JohnThành phố, 574001",Tiểu đường,6.57,Quý cô Thành Trí Vũ,10/05/2026
+8ccc9cea-109f-48ee-b5a4-720058f0dd23,Vân Phạm,FAKE_CCCD_882677957946,1959,ANON_PHONE_0593764063,johnduong@example.com,"589 Hoàng Thế Nguyễn phố JaneThị xã, 851759",Tim mạch,6.21,Tùng Dương,15/01/2026
+a4704d48-5128-49b1-b8ed-e0ca20156a72,Bảo Bảo Mai,FAKE_CCCD_645007615977,2005,ANON_PHONE_0992670556,jane71@example.org,"80 Châu Phạm JanePhường, 336422",Tiểu đường,3.67,Bảo Đức Hoàng,18/02/2026
+8d03f17a-f4d3-45c1-a293-19fa3240d7a1,Bác Quang Vũ,FAKE_CCCD_823471631551,2008,ANON_PHONE_0313510126,jane69@example.net,"995 Hoàng Trần JohnXã, 536822",Tiểu đường,3.62,Bác Anh Mai,26/02/2026
+7ba24588-4d56-4a3d-b4e7-069aa4540937,Quý cô Nhật Vũ,FAKE_CCCD_949307782644,1945,ANON_PHONE_0789009462,janeduong@example.net,"92 Chị Ngọc Trần
+JohnHuyện, 639995",Tim mạch,10.75,Cô Khoa Đặng,01/04/2026
+3f779cae-7318-496d-8479-06121f5d988f,Bảo Lê,FAKE_CCCD_815398200037,1987,ANON_PHONE_0507175143,jane28@example.net,"278 Hải Lê
+JohnThành phố, 512344",Tim mạch,5.59,Lâm Mai Bảo Mai,10/03/2026
+7eb162f1-4806-4804-8cf0-374c0c74dc0f,Cô Hồng Bùi,FAKE_CCCD_092183915248,1950,ANON_PHONE_0559054857,johnpham@example.org,"06 Quý ông Trung Vũ
+JohnThị xã, 628750",Tim mạch,4.27,Tú Đức Mai,24/01/2026
+64d6dfbf-18c0-4e2b-b99f-070420f0156a,Kim Văn Hoàng,FAKE_CCCD_097166489078,1962,ANON_PHONE_0537266435,jane78@example.com,"87 Cô Xuân Lê
+JohnThị xã, 746447",Tim mạch,11.78,Mai Trần,09/04/2026
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Thành Bùi,FAKE_CCCD_992394064991,1985,ANON_PHONE_0960766745,janeduong@example.net,"7 Anh Khoa Nguyễn xã JohnXã, 759580",Huyết áp cao,7.94,Hải Mai Bảo Mai,22/04/2026
+30d73df7-1c22-4cea-b355-56a5f2bd92f2,Nhật Văn Bùi,FAKE_CCCD_336196162920,1992,ANON_PHONE_0392452224,jane24@example.net,"0 Bảo Mai
+JaneHuyện, 281594",Huyết áp cao,3.8,An Phạm,12/05/2026
+ae455cc6-b88e-430f-9e1e-994ac5a11f5c,Xuân Bùi,FAKE_CCCD_199629061805,1961,ANON_PHONE_0704509655,knguyen@example.net,"37 Trung Trần
+JaneThành phố, 701334",Tiểu đường,9.92,Linh Mai,26/02/2026
+b6d1f6bb-f48f-409c-89a2-24410ac4de85,Anh Hưng Vũ,FAKE_CCCD_742397291857,1970,ANON_PHONE_0510977622,janebui@example.net,"199 Cô Nhật Đặng JohnThành phố, 533377",Khỏe mạnh,5.58,Ánh Hoàng,02/01/2026
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,Quý cô Dũng Hữu Vũ,FAKE_CCCD_794896468150,2000,ANON_PHONE_0957907102,ple@example.org,"9 Kim Tấn Trần
+JohnThành phố, 976822",Tim mạch,8.27,Cô Hương Phạm,20/06/2026
+9165f2ed-4c63-4e95-825f-55430997623a,Yến Mai,FAKE_CCCD_384591491333,1997,ANON_PHONE_0344492366,jane66@example.com,"27 Bác Quang Nguyễn
+JaneXã, 807160",Tim mạch,9.33,Chị Vân Mai,10/06/2026
+1634725b-53f3-4073-83e9-6ef46d7df5d0,Hải Nguyễn,FAKE_CCCD_417261294329,1954,ANON_PHONE_0337347696,jane91@example.org,"45 Khoa Văn Vũ
+JanePhường, 347781",Huyết áp cao,9.06,Bảo Bảo Trần,01/04/2026
+afa28559-67c9-4204-a8e3-33b64e8adc4b,Chị Bảo Dương,FAKE_CCCD_328404059379,1985,ANON_PHONE_0942222195,duongjohn@example.com,"87 Phúc Bùi
+JaneThành phố, 691573",Tiểu đường,11.3,Phúc Mai Đặng,25/06/2026
+89628f6e-929c-43b3-b3c0-8bf18167999f,Quang Lê,FAKE_CCCD_276703143286,1995,ANON_PHONE_0739899164,jane32@example.net,"728 Chị Lan Dương
+JanePhường, 122827",Khỏe mạnh,4.25,Nhật Tấn Hoàng,23/04/2026
+58330b30-6c77-4e95-8b98-1ccd12b2102d,Xuân Vũ,FAKE_CCCD_591161464787,1944,ANON_PHONE_0797925239,rdang@example.org,"6 Nhật Mai Bảo Mai
+JaneThành phố, 815894",Tiểu đường,11.23,Quang Dương,15/04/2026
+ba54e920-2099-4180-8762-3997649f7d88,Khoa Phạm,FAKE_CCCD_316586710983,1976,ANON_PHONE_0977368818,jane66@example.com,"752 Bác Vũ Hoàng xã JohnQuận, 316092",Khỏe mạnh,10.84,Thảo Hoàng,07/01/2026
+b40a9181-ac09-4db7-9908-6e477249f62c,Linh Mai,FAKE_CCCD_660387057473,1990,ANON_PHONE_0379885661,janepham@example.net,"843 Chị Thành Mai JohnPhường, 646571",Tiểu đường,6.74,Quý cô Thảo Phạm,12/01/2026
+e134edfc-9777-4f10-b2d2-393f8e85140d,Quý cô Nam Bảo Dương,FAKE_CCCD_003268442529,1941,ANON_PHONE_0806378915,johnvu@example.org,"62 Ông Minh Dương
+JohnThị xã, 160423",Huyết áp cao,11.3,Tùng Mai,17/02/2026
+a58e83dd-548c-4d84-b40d-e04941476506,Anh Huy Lê,FAKE_CCCD_070310740651,1948,ANON_PHONE_0514753443,janetran@example.org,"398 Nhật Thị Mai
+JaneThành phố, 322096",Tim mạch,6.84,Hoàng Trí Vũ,27/06/2026
+b42a2d93-9aba-4f15-b214-90623e1a963e,Quý cô Dũng Phạm,FAKE_CCCD_279081949017,1979,ANON_PHONE_0995365988,jane49@example.com,"87 Hạnh Văn Phạm
+JohnHuyện, 428122",Khỏe mạnh,5.3,Khoa Bùi,04/01/2026
+95831d58-ef4c-4119-8da5-d39b42c21797,Quý ông Dũng Nguyễn,FAKE_CCCD_423633378441,1980,ANON_PHONE_0385453690,duongjohn@example.net,"77 Phương Nguyễn JaneQuận, 668471",Khỏe mạnh,8.61,Quý cô Nhật Hoàng,12/06/2026
+d1682e09-f1f7-4904-9307-5157d8c128e7,Bà Vi Vũ,FAKE_CCCD_358918870485,1991,ANON_PHONE_0317291288,jane02@example.org,"7 Bảo Trí Bùi
+JohnThành phố, 658065",Tim mạch,8.93,Hà Thị Đặng,21/05/2026
+49646b96-fa3c-4628-8926-21df465568b7,Vân Phạm,FAKE_CCCD_348529432209,1959,ANON_PHONE_0838602496,ule@example.net,"46 Hải Mai
+JohnPhường, 336828",Huyết áp cao,10.55,Dương Bùi,19/01/2026
+8d7dd772-608e-4f5c-a117-727067c0518b,Quý cô Dương Dương,FAKE_CCCD_544370812685,1946,ANON_PHONE_0761861590,janenguyen@example.org,"0 Phương Trí Phạm
+JohnThành phố, 817675",Tim mạch,10.34,Bà Phương Phạm,08/05/2026
+d9b59f84-edc3-41c3-adea-2d2d086c405f,Quý cô Yến Phạm,FAKE_CCCD_278281819202,1955,ANON_PHONE_0392130015,janetran@example.org,"8 Phương Hữu Phạm JohnThành phố, 558320",Tim mạch,9.45,Lâm Bùi,30/05/2026
+658e54a2-9879-4f35-b471-99869d264599,Huy Tấn Đặng,FAKE_CCCD_835374318910,2002,ANON_PHONE_0579717504,yduong@example.org,"943 Trung Trần xã JohnPhường, 508548",Tim mạch,11.6,Nhật Hoàng,02/01/2026
+5c238d8d-71da-45b9-8eea-9db8f165d779,Cô Yến Phạm,FAKE_CCCD_498457491707,1947,ANON_PHONE_0888886441,john58@example.org,"015 Cô Hương Hoàng JaneThị xã, 917018",Huyết áp cao,6.15,Kim Mai,25/06/2026
+926bffa5-3e24-4fbf-ba69-8cd2fe2390f3,Quý cô Quý cô Thảo Hoàng,FAKE_CCCD_933880158215,1972,ANON_PHONE_0719419592,johndang@example.com,"47 Hồng Dương xã JohnThị xã, 212168",Huyết áp cao,4.64,Anh Châu Bùi,06/03/2026
+cdd7f460-6140-47d3-9ec4-ea48d773f98d,Phúc Thế Nguyễn,FAKE_CCCD_093405372061,1954,ANON_PHONE_0798267690,john10@example.com,"47 Quang Hoàng
+JaneHuyện, 219420",Khỏe mạnh,4.5,Huy Đặng,06/01/2026
+f166cdcf-762c-4fbc-ba2a-a7baf3f81c31,Quý cô Hoàng Dương,FAKE_CCCD_928104464174,1944,ANON_PHONE_0952266186,jane25@example.com,"2 Quý cô Thảo Vũ
+JaneXã, 520274",Tim mạch,8.49,Quang Hoàng Đặng,17/05/2026
+98049562-8972-4bbd-8ff2-b1c4e53f9644,Quý ông Dũng Lê,FAKE_CCCD_013748285944,1983,ANON_PHONE_0514760988,phamjohn@example.net,"61 Phương Mai Bảo Nguyễn JaneHuyện, 510133",Khỏe mạnh,8.66,Anh Bảo Nguyễn,04/04/2026
+eba900e1-6a7d-4d96-8ba1-72331ac3bf31,Kim Dương,FAKE_CCCD_856410300921,1982,ANON_PHONE_0933030993,johndang@example.net,"775 Kim Trí Vũ phố JanePhường, 214675",Tim mạch,3.56,Hà Nguyễn,18/04/2026
+6d268b37-8f52-42d3-94bb-bcf828fea761,Bà Hà Phạm,FAKE_CCCD_037330255607,1960,ANON_PHONE_0567056658,hoangjohn@example.net,"96 Anh Quang Vũ JohnXã, 206694",Khỏe mạnh,11.3,Tú Thế Dương,30/03/2026
+dcd5bfae-abb3-46a7-8329-97801d2c2721,Quý cô Chi Dương,FAKE_CCCD_244956395524,1988,ANON_PHONE_0351845007,tranjane@example.com,"9 Kim Trí Bùi JaneThành phố, 291936",Tim mạch,6.18,Chị Vân Mai,26/04/2026
+6c4c450b-623a-40fc-9326-7d25234b4562,Quý cô Duyên Trần,FAKE_CCCD_303676638115,1959,ANON_PHONE_0584707651,johnnguyen@example.com,"0 Nhật Đặng JaneXã, 629990",Tim mạch,11.66,Hồng Hoàng,18/05/2026
+2ad11fe8-7d1b-495e-b1a0-449dd703262f,Bảo Phạm,FAKE_CCCD_487377333408,1965,ANON_PHONE_0934910376,john61@example.net,"7 Thành Hoàng
+JohnPhường, 562806",Khỏe mạnh,5.14,Quý cô Trung Hoàng,27/02/2026
+7321a8b2-0840-405a-bfd2-f491dff389aa,Nhật Mai Bảo Vũ,FAKE_CCCD_034426493883,1995,ANON_PHONE_0839362548,duongjohn@example.net,"9 Quý cô Mai Đặng JohnXã, 467856",Tim mạch,10.6,Hải Đức Đặng,02/02/2026
+4aea1b8f-b43c-4e0a-ba9f-c10e52daf681,Bảo Trần,FAKE_CCCD_576425634382,2005,ANON_PHONE_0758634997,janebui@example.com,"Quận JohnQuận
+672 Nhật Dương, 573947",Tiểu đường,7.73,Lâm Hữu Mai,20/03/2026
+b1d81887-4739-4c7b-bff3-0c8d83ff3e96,Quý cô Hương Mai,FAKE_CCCD_416423352822,1935,ANON_PHONE_0731562127,janedang@example.org,"637 Khoa Hữu Dương
+JohnXã, 993829",Tiểu đường,10.38,Bảo Phạm,20/01/2026
+75a72686-d632-4d31-88ac-ffcfa04d4d14,An Lê,FAKE_CCCD_367837094074,1995,ANON_PHONE_0592058283,hoangjane@example.org,"Huyện JohnHuyện
+5 Quý ông Tú Dương, 796787",Huyết áp cao,8.22,Mai Mai,21/05/2026
+6de21429-3bf0-49c1-8156-e501b30e96e8,Thành Vũ,FAKE_CCCD_339665828742,1935,ANON_PHONE_0845112555,vujohn@example.com,"051 Duyên Phạm JaneThành phố, 866260",Huyết áp cao,9.9,Cô Thành Đặng,13/03/2026
+61fa01ba-231a-47c7-8c9b-ff5ce1887eaf,Xuân Bùi,FAKE_CCCD_803950200635,1936,ANON_PHONE_0536802211,tranjohn@example.org,"97 Hạnh Trí Phạm phố JaneHuyện, 550246",Huyết áp cao,10.48,Dương Vũ,06/05/2026
+99db1302-8dab-46d3-bf87-dfc2159152f2,Vi Vũ,FAKE_CCCD_860264168755,1963,ANON_PHONE_0358291762,gtran@example.org,"61 Bác Anh Dương JaneQuận, 505629",Tiểu đường,4.86,Chị Linh Bùi,30/05/2026
+1149d096-965d-444f-8445-c1a812af97e4,Bác Phúc Hoàng,FAKE_CCCD_904946110316,1940,ANON_PHONE_0930296000,janedang@example.com,"61 Phúc Trí Mai
+JohnXã, 313068",Huyết áp cao,9.57,Quý cô Mai Hoàng,04/05/2026
+ae59aa52-a65b-422b-95a3-86d9c362a810,Huy Tấn Đặng,FAKE_CCCD_839755136320,1967,ANON_PHONE_0719118577,john16@example.com,"21 Vân Nguyễn xã JaneXã, 642347",Tiểu đường,8.1,Bảo Trí Phạm,25/01/2026
+44cdbfdd-df9b-441e-87f7-bda1bff15840,Bác Thành Mai,FAKE_CCCD_061081908989,1993,ANON_PHONE_0732933600,hle@example.org,"5 Chị Hà Lê
+JohnHuyện, 910894",Huyết áp cao,11.11,Quý cô Bảo Hoàng,14/02/2026
+0b461173-00a8-4473-8242-5912bda3c162,Dũng Trần,FAKE_CCCD_641354927473,1999,ANON_PHONE_0512986932,buijane@example.net,"536 Duyên Hoàng
+JohnXã, 806033",Tiểu đường,11.17,Bảo Đặng,06/06/2026
+f43e8c48-0bc1-49e5-bb3d-f0638409c5ea,Quý ông Hưng Phạm,FAKE_CCCD_213902821168,1977,ANON_PHONE_0531258511,john27@example.com,"4 An Văn Mai
+JohnPhường, 673108",Khỏe mạnh,4.2,Hạnh Mai Vũ,05/01/2026
+a2cd1590-58af-493c-8aa2-b4c93ba5bd76,Tùng Lê,FAKE_CCCD_139729292633,1986,ANON_PHONE_0315095074,tranjane@example.net,"410 Bảo Đức Trần
+JohnXã, 200219",Tim mạch,11.65,Quý cô Cô Khoa Hoàng,21/04/2026
+f6d70248-a995-4cc3-af5b-09a60ff1c51f,Chị Thảo Mai,FAKE_CCCD_301968214308,1978,ANON_PHONE_0516503704,buijohn@example.com,"291 Quang Vũ
+JaneHuyện, 526259",Tim mạch,5.39,Linh Trần,30/05/2026
+769de1e3-4eed-4124-b3b0-d6763527a5c8,Cô Chi Trần,FAKE_CCCD_962305685043,1956,ANON_PHONE_0890714765,nguyenjohn@example.net,"68 Anh Quang Vũ phố JaneThị xã, 682959",Khỏe mạnh,10.24,Bác Phúc Bùi,06/06/2026
+030f9be9-1f17-4f93-a3c9-7a1ecb371d97,Huy Dương,FAKE_CCCD_894002482466,1953,ANON_PHONE_0599707113,pdang@example.com,"9 Kim Mai Bảo Nguyễn JaneQuận, 196446",Tim mạch,6.71,Chị Ngọc Bùi,10/01/2026
+6ee35607-92ea-4324-ac93-e5962b015723,Quý cô Lâm Hoàng,FAKE_CCCD_369088672994,1993,ANON_PHONE_0585046538,janebui@example.org,"099 Hải Tấn Hoàng
+JaneThành phố, 191982",Tim mạch,9.02,Chị Hương Lê,23/03/2026
+cc152a1b-e278-4642-a484-e035330faaa3,Minh Đức Nguyễn,FAKE_CCCD_441727901210,2000,ANON_PHONE_0834104311,ftran@example.com,"059 Quý cô Thảo Nguyễn xã JaneXã, 344068",Huyết áp cao,7.46,Bảo Hải Bùi,21/02/2026
+ead18464-ca8e-458c-90f8-1063889fe107,Anh Bảo Mai,FAKE_CCCD_605536566466,1988,ANON_PHONE_0948746146,buijane@example.org,"0 Nam Hoàng Hoàng xã JaneQuận, 614259",Tiểu đường,5.0,Nhật Tấn Bùi,15/02/2026
+86c5547c-051a-4039-b803-dcee9a069295,Nhật Tấn Phạm,FAKE_CCCD_248276321285,1962,ANON_PHONE_0870955734,john75@example.com,"2 Chị Khoa Bùi
+JaneXã, 205939",Huyết áp cao,9.98,Ông Quang Mai,31/01/2026
+cab63107-6fd6-4b3a-b2dd-9456bb7b6c05,Linh Dương,FAKE_CCCD_982337489595,1984,ANON_PHONE_0869826766,jdang@example.net,"209 Hưng Đức Bùi JohnPhường, 693022",Huyết áp cao,8.63,Mai Vũ,06/03/2026
+58c88c48-3ced-4d1f-93eb-22c9beced21a,Quý cô An Lê,FAKE_CCCD_000759431961,1996,ANON_PHONE_0914352857,phamjohn@example.com,"10 Thành Văn Vũ
+JohnThị xã, 617033",Tim mạch,11.48,Anh Huy Vũ,10/06/2026
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,Ông Hoàng Bùi,FAKE_CCCD_590766137806,1940,ANON_PHONE_0969834434,lejane@example.org,"21 Kim Xuân Hoàng xã JohnXã, 555292",Tim mạch,11.65,Ông Minh Trần,09/02/2026
+b27b7bb4-68c6-40b2-b0a2-cee8f9722cc1,Trọng Hữu Trần,FAKE_CCCD_609419035451,1967,ANON_PHONE_0785555071,johntran@example.com,"050 Quang Trần
+JohnThành phố, 126985",Tim mạch,7.13,Bảo Văn Lê,16/01/2026
+4ef03f80-1d91-4e39-9801-4004793bed1b,Duyên Trần,FAKE_CCCD_569931802019,1947,ANON_PHONE_0818403196,john60@example.net,"477 Quý cô Thành Đặng JohnThành phố, 800596",Tim mạch,8.02,Ông Anh Đặng,14/02/2026
+6319629b-d73e-4bb9-8f9c-a17b8db8dadf,Kim Trần,FAKE_CCCD_845548445025,1967,ANON_PHONE_0314877751,janenguyen@example.net,"9 Bác Anh Trần JohnQuận, 232315",Tiểu đường,4.86,Bác Vũ Mai,13/05/2026
+d2938e6e-ff4d-4930-b3b0-fb536f75ee8a,Nam Nguyễn,FAKE_CCCD_704427968385,1947,ANON_PHONE_0700212635,xmai@example.org,"7 Quý ông Tú Nguyễn
+JohnQuận, 694116",Tim mạch,6.04,Phương Hữu Nguyễn,01/06/2026
+de12dbf1-493d-4196-8926-a02119da8262,Bảo Hải Mai,FAKE_CCCD_766138172555,2001,ANON_PHONE_0725247166,jane69@example.net,"653 Thành Văn Vũ
+JohnHuyện, 957091",Khỏe mạnh,8.97,Chị Bảo Lê,13/06/2026
+af527666-b239-49f4-9bb5-46457ddac1b6,Chị Hà Hoàng,FAKE_CCCD_319225146816,1976,ANON_PHONE_0779068227,jane22@example.com,"736 Chị Dương Bùi JohnHuyện, 844037",Tim mạch,9.07,Bác Phúc Trần,07/02/2026
+d6441a9d-3362-4476-953a-e57fe00bd534,Anh Quang Dương,FAKE_CCCD_049578483419,1997,ANON_PHONE_0591764203,johnpham@example.net,"6 Châu Lê
+JaneXã, 567773",Tim mạch,5.01,Quý cô Nam Dương,09/03/2026
+e4fd6c34-d670-4a21-a9dc-073e5820b3f2,Tùng Lê,FAKE_CCCD_263473922547,1939,ANON_PHONE_0724043983,janetran@example.com,"334 Hạnh Mai Bảo Trần xã JohnPhường, 281614",Tim mạch,9.07,Anh Trung Hoàng,29/04/2026
+b676291d-4e32-4b4b-b168-c605ce1a1669,Huy Vũ,FAKE_CCCD_158212695241,1982,ANON_PHONE_0590439130,hnguyen@example.org,"1 Quý cô Hương Lê
+JohnThị xã, 166938",Tim mạch,11.96,Khoa Hoàng,20/02/2026
+e4729be5-f3c2-444a-b60a-3dcca7f77451,Ông Quang Bùi,FAKE_CCCD_755376900734,2005,ANON_PHONE_0377819762,nguyenjohn@example.com,"0 Thành Mai Đặng
+JaneThị xã, 872519",Huyết áp cao,11.55,Cô Lan Lê,08/06/2026
+b69f5eab-b9ff-4c29-97d9-cbb0309e47ba,Quý cô Hạnh Văn Hoàng,FAKE_CCCD_306122286233,2004,ANON_PHONE_0931059476,johnvu@example.org,"4 Trọng Hoàng Dương JohnPhường, 422002",Khỏe mạnh,10.03,Dương Hoàng,24/04/2026
+1e26ed31-d9e9-4758-b6b9-04364b46ef33,Bà Mai Phạm,FAKE_CCCD_572131854128,1945,ANON_PHONE_0505924334,hoangjohn@example.net,"4 Anh Dũng Bùi JaneThị xã, 697062",Khỏe mạnh,6.96,Bảo Xuân Vũ,01/06/2026
+a18b5d15-5527-4407-bcd2-192f14b00f62,Ông Nhiên Đặng,FAKE_CCCD_534417631037,1936,ANON_PHONE_0792732179,abui@example.net,"12 Chị Dương Mai
+JaneThị xã, 104895",Khỏe mạnh,7.87,Hương Vũ,22/05/2026
+e45a87e8-039a-4ed5-b337-b2615f8392d5,Bảo Hoàng Lê,FAKE_CCCD_419567321402,1936,ANON_PHONE_0378107988,john97@example.org,"9 Vũ Bùi JaneThị xã, 863187",Huyết áp cao,3.68,Hạnh Dương,25/06/2026
+303cb04b-c007-4336-9bf7-dda17d7c59a5,Quý cô Dũng Trần,FAKE_CCCD_739488469625,1966,ANON_PHONE_0758747153,jane21@example.org,"06 Bà Dương Lê phố JohnThành phố, 823255",Khỏe mạnh,9.0,Phương Hoàng Phạm,15/03/2026
+797209c0-40b3-44f8-8c1a-b2c71fa3ed1f,Phương Phú Trần,FAKE_CCCD_960691433230,1976,ANON_PHONE_0382310381,jvu@example.com,"18 Quý ông Tùng Mai xã JohnXã, 309452",Tiểu đường,4.14,Huy Hoàng,11/03/2026
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,Nhật Đặng,FAKE_CCCD_051466200192,1963,ANON_PHONE_0315081450,dangjane@example.net,"972 Hà Phạm
+JohnThị xã, 410401",Huyết áp cao,11.52,Hoàng Mai Bảo Mai,20/01/2026
+0a190939-dfc7-4b26-acb9-41fcd02c75f9,Quý cô Ngọc Hoàng,FAKE_CCCD_922151800595,1993,ANON_PHONE_0867330855,hoangjane@example.com,"57 Thành Bảo Trần
+JohnThành phố, 520245",Khỏe mạnh,7.04,Bà Mai Nguyễn,14/05/2026
+6bf7240f-ccc6-4fed-ba6e-43d0d9c59cd9,Huy Trần,FAKE_CCCD_905002592907,1957,ANON_PHONE_0971332515,johnmai@example.org,"6 Quý cô Linh Bùi xã JaneThành phố, 531262",Huyết áp cao,9.06,Nhật Phạm,08/05/2026
+de4b061e-b45e-4463-832a-09e05071e5f0,Ông Tú Phạm,FAKE_CCCD_966251919301,1948,ANON_PHONE_0520677710,wtran@example.org,"890 Bà An Dương
+JohnThành phố, 887931",Tiểu đường,3.81,Tùng Hoàng Nguyễn,24/02/2026
+8ced4707-3903-4b65-81c6-1eeb0ce3c8c8,Khoa Trí Bùi,FAKE_CCCD_970519842440,1997,ANON_PHONE_0747900342,john98@example.com,"17 Nhật Lê
+JohnXã, 675771",Tim mạch,6.71,Khoa Mai,03/06/2026
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,Yến Đặng,FAKE_CCCD_402646516704,1963,ANON_PHONE_0997889853,ppham@example.net,"89 Bác Châu Trần phố JohnThành phố, 457938",Huyết áp cao,6.76,Nhật Văn Lê,09/01/2026
+23f47a55-7e0f-40b2-aa06-1609e599bd3c,Tú Phú Mai,FAKE_CCCD_586560765541,1962,ANON_PHONE_0763018377,ytran@example.com,"5 Hưng Trần xã JanePhường, 717942",Huyết áp cao,8.55,Quý cô Quý ông Hưng Lê,23/05/2026
+6ecca931-ef70-4d01-8da0-3d880c6f3051,Nhật Trần,FAKE_CCCD_923653377825,1952,ANON_PHONE_0821445143,jane70@example.com,"3 Chị Phương Lê
+JaneQuận, 244892",Huyết áp cao,7.95,Bảo Bảo Nguyễn,17/06/2026
+ef7db821-bca0-458e-b63d-65d5505c7527,Chị Vi Hoàng,FAKE_CCCD_323754358843,1975,ANON_PHONE_0590211670,lejohn@example.net,"1 Anh Thành Lê
+JaneThị xã, 947568",Khỏe mạnh,11.82,Bà Vi Đặng,05/01/2026
+ab95c72f-0d95-4af5-a534-21bc6180b78a,Chị Linh Lê,FAKE_CCCD_918663560936,1957,ANON_PHONE_0858633117,ntran@example.net,"0 Quý cô Duyên Bùi xã JohnXã, 922405",Tim mạch,9.13,Thành Xuân Hoàng,17/03/2026
+f9cf8499-c9c1-4d45-b4ea-6b976aa415b5,Phúc Trần,FAKE_CCCD_421746768925,1969,ANON_PHONE_0305806549,duongjane@example.org,"8 Bà Vi Trần
+JohnPhường, 178086",Tim mạch,8.98,Dũng Nguyễn,24/01/2026
+4773e66a-6db2-4020-8a67-01436090103c,Bà Ngọc Lê,FAKE_CCCD_593969857993,1970,ANON_PHONE_0900658339,janemai@example.org,"590 Trung Mai Trần JohnQuận, 645895",Huyết áp cao,10.03,Bảo Thế Phạm,22/03/2026
+1789be63-6746-4743-897b-303d8b074d1a,Nhật Trần,FAKE_CCCD_410775528277,1980,ANON_PHONE_0781067757,bbui@example.com,"573 Khoa Hữu Hoàng
+JohnThị xã, 369054",Huyết áp cao,10.67,Cô Chi Mai,09/06/2026
+cd8565ce-83a9-4235-9ffd-4015c53f1db3,Nhật Mai,FAKE_CCCD_473060683119,1961,ANON_PHONE_0576828873,hoangjohn@example.net,"361 Bà Khoa Hoàng phố JanePhường, 447828",Khỏe mạnh,9.6,Châu Thế Đặng,11/01/2026
+8ede9b46-407d-4aff-8b51-a9112d90e4ee,Ông Hưng Dương,FAKE_CCCD_443245199933,1970,ANON_PHONE_0894055305,john44@example.net,"618 Bà Hương Lê JohnHuyện, 925115",Tim mạch,6.09,Chị Nhật Nguyễn,24/02/2026
+61a451ff-700b-4b43-ad3b-9d13c3e90323,Quý ông Vũ Trần,FAKE_CCCD_129649252505,1956,ANON_PHONE_0990940094,qbui@example.org,"50 Quý cô Kim Lê xã JohnHuyện, 320256",Tim mạch,6.72,An Vũ,28/01/2026
+9dec2b83-3885-4f7e-af1a-25a829344e15,Thành Thế Dương,FAKE_CCCD_771642994516,1960,ANON_PHONE_0504950705,janemai@example.com,"1 Chị Nhật Vũ
+JaneHuyện, 234443",Tiểu đường,11.88,Ông Tú Mai,14/01/2026
+7c6166df-515a-4b43-b189-1f48e66e2c11,Hải Mai,FAKE_CCCD_956278236981,1956,ANON_PHONE_0328035204,maijohn@example.org,"6 Ánh Đặng
+JaneThị xã, 566991",Tiểu đường,6.15,Bà Mai Phạm,22/01/2026
+14fc3a5d-9b4b-4377-a542-deb92cff45f8,Thành Mai Bùi,FAKE_CCCD_939840483939,1962,ANON_PHONE_0351082650,jmai@example.org,"3 Phương Mai Bảo Bùi JaneQuận, 909652",Tiểu đường,11.7,Hạnh Lê,08/04/2026
+5d264b1b-6593-4659-972e-8c6882aa5c46,Anh Phú Lê,FAKE_CCCD_973286919926,1958,ANON_PHONE_0894418538,janemai@example.org,"7 Anh Vũ Hoàng
+JohnThành phố, 377198",Tiểu đường,3.59,Lâm Mai,11/04/2026
+635a11f2-5c7a-483d-8a9d-2704e860bcb1,Kim Trần,FAKE_CCCD_108533590193,1979,ANON_PHONE_0767390102,john12@example.net,"65 Quang Mai xã JaneHuyện, 610511",Tim mạch,9.15,Nhiên Phạm,27/03/2026
+83b8fa05-13bc-4dc6-bae0-acdb2a6524af,Tú Bảo Đặng,FAKE_CCCD_269110091603,1960,ANON_PHONE_0373733679,emai@example.com,"51 Ông Nhiên Trần JaneThành phố, 355506",Huyết áp cao,7.23,Tùng Mai Nguyễn,26/04/2026
+833c8f55-a129-4fa2-a27d-4660293fc266,Quang Trần,FAKE_CCCD_927368974742,1955,ANON_PHONE_0781134412,janedang@example.com,"9 Anh Huy Trần xã JaneThị xã, 278852",Huyết áp cao,10.86,Quý cô Hương Bùi,04/06/2026
+2e8ff5a8-c47a-4b7e-9209-383b95284c0a,Thành Mai,FAKE_CCCD_436342112226,1997,ANON_PHONE_0336094859,phamjane@example.com,"886 Quang Trần
+JohnXã, 627778",Tiểu đường,9.41,Quý cô Khoa Đặng,09/05/2026
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,Phương Văn Hoàng,FAKE_CCCD_269191272825,2006,ANON_PHONE_0337356399,janedang@example.com,"65 Bà Ánh Hoàng
+JaneQuận, 187889",Huyết áp cao,11.26,Anh Vũ Dương,21/03/2026
+b58ac738-0166-4221-b063-ae7f41ff81d1,Dũng Đặng,FAKE_CCCD_959590500035,1951,ANON_PHONE_0895646030,janevu@example.com,"12 Chị Vi Nguyễn
+JaneXã, 483405",Khỏe mạnh,4.7,Quý ông Quang Phạm,22/03/2026
+7b8301cf-8ebc-4d7e-88a6-5b858d56bff6,Hà Trí Nguyễn,FAKE_CCCD_958831643079,2001,ANON_PHONE_0586794768,xdang@example.com,"1 Khoa Thế Hoàng JaneHuyện, 939756",Khỏe mạnh,7.82,Bà Thành Dương,04/05/2026
+d2c0dec2-1751-44d7-8deb-2696015aba1d,Quý cô Nhật Tấn Lê,FAKE_CCCD_543400112837,1947,ANON_PHONE_0366684731,vujohn@example.net,"6 Hoàng Lê JaneThị xã, 111230",Tiểu đường,6.41,Thành Dương,02/06/2026
+b2cd9a0a-840c-4cb0-82b3-43849979cf26,An Lê,FAKE_CCCD_027275531117,1984,ANON_PHONE_0818727845,nguyenjohn@example.net,"JanePhường
+93 Nhật Trí Hoàng, 676289",Khỏe mạnh,11.31,Cô Kim Trần,09/03/2026
+46c937e0-d0c5-4550-b69a-053958f42098,Quý ông Châu Hoàng,FAKE_CCCD_571057457742,1936,ANON_PHONE_0781196619,jane25@example.com,"18 Kim Mai
+JaneXã, 607122",Tim mạch,4.82,Khoa Bảo Phạm,13/05/2026
+dcad8ec2-963a-4333-a582-95dc75f1c654,Thành Bùi,FAKE_CCCD_851587160743,1970,ANON_PHONE_0516659302,buijane@example.net,"58 Ánh Trần
+JohnThị xã, 806423",Tiểu đường,11.17,Thành Phạm,02/03/2026
+92ded495-e4f1-48e8-b7f3-f32b5a81762a,Hưng Phạm,FAKE_CCCD_272949195992,2003,ANON_PHONE_0949153849,johnduong@example.org,"952 Lâm Bảo Phạm
+JohnXã, 144316",Huyết áp cao,11.78,Chị Dương Trần,06/04/2026
+e5a1c6e4-e188-4146-bc40-a3d4e5eb4549,Bà Mai Lê,FAKE_CCCD_047683946448,2005,ANON_PHONE_0550801620,john37@example.org,"80 Tùng Trí Hoàng
+JohnPhường, 643377",Tim mạch,11.14,Bác Tùng Trần,11/05/2026
+19ca9c1b-94bc-447a-a122-318935f3de4a,Quý ông Phúc Lê,FAKE_CCCD_434265628246,1971,ANON_PHONE_0839729873,johnpham@example.net,"63 Hương Dương
+JaneThị xã, 288627",Tiểu đường,10.95,Khoa Trần,06/06/2026
+db370ca7-6ea5-4341-8e2a-c3ff3c5dba42,Vũ Hữu Nguyễn,FAKE_CCCD_924763247243,1999,ANON_PHONE_0831202346,nguyenjane@example.org,"44 Ông Huy Phạm phố JohnHuyện, 599687",Huyết áp cao,7.43,Hương Phạm,20/02/2026
+8eb7c306-8f73-498e-9c3d-0d5f5c6801d6,Nhiên Bảo Hoàng,FAKE_CCCD_728047288370,1991,ANON_PHONE_0996928245,janebui@example.com,"55 Hải Đặng
+JaneThị xã, 762398",Tim mạch,10.39,Quý cô Phương Vũ,23/03/2026
+679f2f42-9256-4707-9cc0-5b67a19b224a,An Tấn Lê,FAKE_CCCD_075453836342,1982,ANON_PHONE_0535755789,hpham@example.com,"6 Hải Thế Phạm
+JaneQuận, 292818",Khỏe mạnh,6.19,Chị Dương Đặng,09/05/2026
+b360dfaa-be6e-4d47-b0c0-804b406bf02d,Lâm Bùi,FAKE_CCCD_738364286706,1989,ANON_PHONE_0904656461,maijohn@example.com,"81 Mai Dương xã JaneQuận, 359414",Huyết áp cao,5.51,Duyên Mai,26/01/2026
+075072d6-2bac-4712-96a9-19e886d895e5,Dũng Phạm,FAKE_CCCD_331412229013,1979,ANON_PHONE_0857843180,john22@example.org,"8 Ông Nam Đặng
+JaneThị xã, 665883",Khỏe mạnh,9.69,Tùng Thị Nguyễn,13/03/2026
+4db6f475-27dd-4ac4-8282-b6e46986305a,Phương Mai,FAKE_CCCD_793775773104,1954,ANON_PHONE_0704220905,udang@example.org,"40 Lâm Bùi JohnThị xã, 687783",Tiểu đường,3.55,Nhật Hữu Đặng,19/05/2026
+d413c850-63c4-476d-a55f-a725bcb3c168,Chị Hà Lê,FAKE_CCCD_715988366566,1992,ANON_PHONE_0706850603,janenguyen@example.org,"31 Khoa Trí Bùi xã JaneHuyện, 834498",Huyết áp cao,3.61,Chị Chi Lê,30/01/2026
+05aa5eab-88f3-47ea-b83f-52740cb4afe1,Bảo Dương,FAKE_CCCD_985744612118,1952,ANON_PHONE_0515104833,johnmai@example.org,"564 Duyên Lê JohnQuận, 158760",Tim mạch,4.04,Bà Hải Lê,16/04/2026
+e54c8739-3133-439e-ae7d-952b785b8a07,Bác Dũng Lê,FAKE_CCCD_826282268518,1952,ANON_PHONE_0526061543,janehoang@example.net,"718 Quý cô Khoa Dương
+JaneQuận, 759726",Huyết áp cao,8.43,Lan Dương,12/04/2026
+a3760c2d-7b31-4cdc-80d9-1a8e1f44aa88,Anh Hoàng,FAKE_CCCD_391813344990,1942,ANON_PHONE_0995466054,phamjane@example.net,"491 Khoa Bùi xã JohnHuyện, 908239",Tiểu đường,5.97,Nhật Bảo Hoàng,08/04/2026
+56a2d49d-9e5f-4273-af9a-116817661795,Quý ông Hưng Nguyễn,FAKE_CCCD_094947329832,1956,ANON_PHONE_0335174604,jhoang@example.net,"30 Vũ Phạm
+JohnThị xã, 840951",Khỏe mạnh,9.0,Quý ông Quang Phạm,06/02/2026
+59008d65-8b2a-4759-afc6-c4e691135d7e,Nhật Thị Dương,FAKE_CCCD_575417521174,1957,ANON_PHONE_0342740837,lhoang@example.org,"5 Quý cô Thảo Nguyễn phố JaneXã, 350385",Khỏe mạnh,3.66,Anh Minh Vũ,12/04/2026
+8d2cfe83-c407-4654-bf5f-61aaaee7c7a5,Cô Nhật Trần,FAKE_CCCD_066709166571,1979,ANON_PHONE_0809708427,nguyenjohn@example.net,"031 Quý cô Dương Hoàng xã JaneXã, 754280",Huyết áp cao,7.45,Ngọc Hoàng,12/02/2026
+03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1,Quý cô Quý cô Chi Mai,FAKE_CCCD_584189457003,1999,ANON_PHONE_0364213274,mhoang@example.org,"4 Hoàng Hữu Hoàng JohnThành phố, 860397",Khỏe mạnh,6.66,Quý cô Ông Hoàng Mai,13/04/2026
+a0154d65-91ed-454a-bfae-ef01a8290f3c,Quý cô Kim Tấn Hoàng,FAKE_CCCD_957042501836,1984,ANON_PHONE_0387514892,johnbui@example.net,"5 Quý cô Hà Nguyễn
+JaneHuyện, 532373",Tim mạch,10.83,Lâm Dương,16/02/2026
+60042231-36c3-4e85-8bae-295e902a405c,Phương Bùi,FAKE_CCCD_368287128095,1996,ANON_PHONE_0858498788,zpham@example.com,"Quận JaneThành phố
+350 Xuân Nguyễn, 198867",Khỏe mạnh,7.72,Xuân Đặng,31/01/2026
+e3be7ca0-5df9-44fb-83d6-43ed236eb832,Khoa Lê,FAKE_CCCD_305959123763,1948,ANON_PHONE_0741917712,janeduong@example.org,"27 Kim Hữu Trần
+JohnThành phố, 908348",Huyết áp cao,5.93,Bác Huy Đặng,18/06/2026
+3a0a2b59-c538-4872-9eaa-543e1edbbe71,Hạnh Mai,FAKE_CCCD_642026039431,1942,ANON_PHONE_0836242116,mvu@example.org,"067 Phương Phạm
+JaneQuận, 238610",Huyết áp cao,8.14,Nhiên Vũ,25/05/2026
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,Hải Bùi,FAKE_CCCD_884266862281,1994,ANON_PHONE_0713066139,maijohn@example.com,"9 Hạnh Bùi JaneHuyện, 817999",Huyết áp cao,7.41,Dương Vũ,24/03/2026
+521be8c2-30c3-4f8a-992a-b43d5d822e3a,Bà Vi Dương,FAKE_CCCD_416618612631,1958,ANON_PHONE_0321138874,lejane@example.net,"521 Hà Mai Hoàng JohnHuyện, 827497",Tim mạch,7.4,Cô Hạnh Vũ,02/04/2026
+bd717da3-3581-4632-94f5-df7005d2d205,Hạnh Trần,FAKE_CCCD_652574394873,1970,ANON_PHONE_0868249870,xhoang@example.net,"98 Yến Lê JohnPhường, 747983",Khỏe mạnh,11.39,Yến Trần,08/05/2026
+637e3f94-110c-4d92-8222-305df1f71605,Bảo Xuân Lê,FAKE_CCCD_723146871566,1938,ANON_PHONE_0573342608,ymai@example.net,"Huyện JaneXã
+387 Phúc Đặng, 655132",Tim mạch,5.24,Bà Nhật Phạm,18/03/2026
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,Quang Mai Hoàng,FAKE_CCCD_498855750928,2003,ANON_PHONE_0786546611,tvu@example.net,"256 Huy Đức Mai xã JohnXã, 260169",Tim mạch,4.89,Linh Trần,16/04/2026
+2379c05f-a708-4280-b4ee-0b6721bbd183,Châu Phạm,FAKE_CCCD_639484984200,1953,ANON_PHONE_0344898491,janele@example.org,"881 Bác Hưng Dương JaneThị xã, 418083",Khỏe mạnh,9.18,Lâm Mai Lê,21/01/2026
